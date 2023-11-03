@@ -1,2 +1,2 @@
 # QR-CODE-GENERATOR
-This is is JavaScript API project which generate QR codes for any  text or URLs we enter to it.
+This is is JavaScript API project which generate QR codes for any  text or URLs we enter.
